@@ -1,0 +1,42 @@
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #4f585e;
+  margin-bottom: 15px;
+}
+
+.searchContainer {
+  background: white;
+  border-radius: 6px;
+  padding: 15px;
+  width: 800px;
+}
+
+.subheading {
+  color: #4f585e;
+  margin-top: 10px;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.suggestionChips {
+  display: flex;
+}
+
+.suggestionContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.headingContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reset {
+  color: #8897a2;
+  font-size: 12px;
+  cursor: pointer;
+}

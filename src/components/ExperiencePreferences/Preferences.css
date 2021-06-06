@@ -1,0 +1,54 @@
+.container {
+  width: 800px;
+  background: #f4f7fb;
+  padding: 10px;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #4f585e;
+}
+
+.subheading {
+  font-size: 14px;
+  color: #8897a2;
+  margin-bottom: 15px;
+}
+
+.tabContainer {
+  background: white;
+  border-radius: 6px;
+  padding: 15px;
+}
+
+.tabHeading {
+  font-size: 16px;
+  color: #4f585e;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.radio.radio {
+  border: 1px solid;
+  padding: 5px 15px;
+  margin: 10px 0 0;
+  border: 1px solid #dfe3e6;
+  border-radius: 6px;
+}
+
+.outputContainer {
+  padding: 15px;
+}
+
+.reset {
+  color: #8897a2;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.headingContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
